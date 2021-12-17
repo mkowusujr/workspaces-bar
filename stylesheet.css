@@ -41,27 +41,28 @@
 .desktop-label-nonempty-active {
   margin-left: 0px;
   margin-right: 8px;
-  background-color: rgba(154, 154, 154, 0.7);
-  border-radius: 4px;
+  background-color: rgba(160,98,108, 0.8);
+  /*background-color: rgba(251, 178, 178, 0.55);*/
+  border-radius: 10px;
 }
 
 .desktop-label-nonempty-inactive {
   margin-left: 0px;
   margin-right: 8px;
-  background-color: rgba(96, 96, 96, 0.7);
-  border-radius: 4px;
+  /*background-color: rgba(160, 98, 108, 0.8);*/
+  border-radius: 10px;
 }
 
 .desktop-label-empty-active {
   margin-left: 0px;
   margin-right: 8px;
-  background-color: rgba(154, 154, 154, 0.7);
-  border-radius: 4px;
+  background-color: rgba(160, 98, 108, 0.8);
+  border-radius: 10px;
 }
 
 .desktop-label-empty-inactive {
   margin-left: 0px;
   margin-right: 8px;
-  background-color: rgba(0, 0, 0, 0.0);
-  border-radius: 4px;
+  /*background-color: rgba(0, 0, 0, 0.0);*/
+  border-radius: 10px;
 }
